@@ -1,0 +1,14 @@
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.deps.json
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\netcoreapp2.2\NerdStore.Vendas.Domain.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\netcoreapp2.2\NerdStore.Vendas.Application.pdb

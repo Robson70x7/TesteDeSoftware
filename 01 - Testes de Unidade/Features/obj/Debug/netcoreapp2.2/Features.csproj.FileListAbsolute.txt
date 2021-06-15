@@ -1,0 +1,9 @@
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.deps.json
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\bin\Debug\netcoreapp2.2\Features.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfoInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.AssemblyInfo.cs
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Features\obj\Debug\netcoreapp2.2\Features.pdb

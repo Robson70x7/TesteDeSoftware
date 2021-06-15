@@ -1,0 +1,9 @@
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\01 - Testes de Unidade\Demo\obj\Debug\netcoreapp2.2\Demo.pdb

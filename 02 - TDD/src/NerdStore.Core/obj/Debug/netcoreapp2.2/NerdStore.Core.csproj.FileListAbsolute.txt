@@ -1,0 +1,9 @@
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\bin\Debug\netcoreapp2.2\NerdStore.Core.deps.json
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp2.2\NerdStore.Core.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp2.2\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp2.2\NerdStore.Core.AssemblyInfo.cs
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp2.2\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\02 - TDD\src\NerdStore.Core\obj\Debug\netcoreapp2.2\NerdStore.Core.pdb

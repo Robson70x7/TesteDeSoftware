@@ -1,0 +1,12 @@
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.deps.json
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\bin\Debug\netcoreapp2.2\NerdStore.Core.pdb
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csprojAssemblyReference.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.AssemblyInfo.cs
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.csproj.CopyComplete
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.dll
+C:\Users\Adm\Documents\Desenvolvedor.io\Testes de Integracao\03 - Testes de Integracao\src\NerdStore.Catalogo.Domain\obj\Debug\netcoreapp2.2\NerdStore.Catalogo.Domain.pdb
